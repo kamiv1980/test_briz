@@ -1,0 +1,30 @@
+.form {
+  margin: 20px auto;
+  font-size: 15px;
+  width: 20em;
+  display: flex;
+  flex-direction: column;
+}
+.button{
+  font-weight: 700;
+  height: 2em;
+  border-radius: 5px;
+  margin:40px auto;
+  color: indigo;
+  font-size: large ;
+  background-color: #acdaf1;
+}
+
+.label{
+  font-size: 20px;
+  display: flex;
+  flex-direction: column;
+}
+.input{
+  font-size: 16px;
+  background-color: #c8d7ea;
+  height: 3em;
+  margin-top: 10px;
+  box-shadow: 0 0 5px orange ;
+  border-radius: 3px;
+}

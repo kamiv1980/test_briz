@@ -1,0 +1,19 @@
+.list{
+ text-align: left;
+ font-size: 20px;
+ width: 35em;
+ margin: 20px auto;
+ border: 3px solid dodgerblue;
+ border-radius: 10px;
+ padding: 1em;
+}
+.item{
+ display: flex;
+ align-items: center;
+ justify-content: space-between;
+}
+button,
+.button {
+ margin-bottom: 0 !important;
+ margin-right: .5rem;
+}
